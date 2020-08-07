@@ -16,3 +16,6 @@ console.log(result);
 
 const defined = undefined;
 console.log(defined);
+
+const object = {name: "mahmud", age: 23}
+console.log(object.address);
